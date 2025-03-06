@@ -1,6 +1,6 @@
 
 export const navItems = [
-    {label: "About", href: "#"},
+    {label: "About", href: "/aboutus"},
     {label: "Campaigns", href: "#"},
     {label: "Events", href: "#"},
     {label: "Donate", href: "#"},
